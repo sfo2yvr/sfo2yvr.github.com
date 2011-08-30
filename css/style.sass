@@ -1,0 +1,101 @@
+body
+  :padding 0
+  :margin 0
+  :font-family Georgia, serif
+#container
+  :width 60%
+  :border-top 6px solid black
+  :margin 0 auto
+  :padding 0
+  h1
+    :font-size 4.8em
+    :font-weight normal
+    :padding 0
+    :margin 0.24em 0em 0.04em 0em
+  span#subtitle
+    :color #666
+    :font-style italic
+    :font-size 1.4em
+    :display block
+    :width 100%
+    :margin 0
+    :padding 0em 0em 1.4em 0em
+  a
+    :text-decoration none
+    :display block
+    h1
+      :color #000
+  a:hover
+    h1
+      :color rgba(0,0,0,.4)
+    .post
+      div.datetime
+        :background #000
+  .post.left
+    img
+      :border-right 1px solid #fff
+      :margin-left -1px
+  .post
+    :padding-bottom 1px
+    :width 50%
+    :float left
+    :position relative
+    div.datetime
+      :background rgba(0,0,0,.4)
+      :transition ease-in-out 1s background
+      :position absolute
+      :z-index 2
+      :top 10px
+      :left 10px
+      :padding 16px
+      :border-radius 40px
+      :width 2.8em
+      :height 2.8em
+      span.day
+        :font-size 1em
+        :color #fff
+        :text-decoration none
+        :padding 0em 0em 0.3em 0em
+        :margin 0 auto
+        :display block
+        :width 100%
+        :border-bottom 1px solid #fff
+        :text-align center
+      span.month
+        :font-size 1em
+        :color #fff
+        :text-decoration none
+        :padding 0.3em 0em 0em 0em
+        :margin 0 auto
+        :display block
+        :width 100%
+        :text-align center
+    img
+      :width 100%
+    a
+      :background #000
+      :color #fff
+      :position absolute
+      :z-index 2
+      :top 10px
+      :left 10px
+      :text-decoration none
+      :padding 16px
+      :font-size 1.4em
+      :border-radius 40px
+    a:hover
+      :background #fff
+      :color #000
+    .content
+      h1
+        :font-size 2.4em
+  .post:hover
+    a
+      :background #fff
+      :color #000
+  #post
+    :width 100%
+    img
+      :width 100%
+    h1
+      :font-size 2.4em
