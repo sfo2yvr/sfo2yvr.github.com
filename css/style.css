@@ -3,6 +3,9 @@ body {
   margin: 0;
   font-family: Georgia, serif; }
 
+p {
+  line-height: 150%; }
+
 #container {
   width: 60%;
   border-top: 6px solid black;
