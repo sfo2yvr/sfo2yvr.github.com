@@ -95,3 +95,14 @@ body {
       width: 100%; }
     #container #post h1 {
       font-size: 2.4em; }
+
+#footer {
+  padding-top: 30px;
+  clear: both; }
+  #footer p {
+    color: #666666;
+    display: block;
+    width: 100%; }
+    #footer p a {
+      color: black;
+      display: inline; }

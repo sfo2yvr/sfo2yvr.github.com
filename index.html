@@ -5,7 +5,7 @@ title: SFO 2 YVR
 
 {% for post in site.posts %}
   <a href="{{ post.url }}">
-    <div class="post left">
+    <div class="post {% cycle 'left', 'right' %}">
       <div class="datetime">
         <span class="day">{{ post.date | date: "%d" }}</span>
         <span class="month">{{ post.date | date: "%m"}}</span>
