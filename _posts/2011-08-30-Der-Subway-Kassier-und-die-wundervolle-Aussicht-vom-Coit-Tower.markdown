@@ -1,0 +1,7 @@
+---
+layout: post
+title: Der Subway Kassier und die wundervolle Aussicht vom Coit Tower
+image: der-subway-kassier-und-die-wundervolle-aussicht-vom-coit-tower.jpg
+---
+
+Tag 3 - Auf der Suche nach einem Schlafsack, für die bevorstehende Reise, wagten wir uns auf die andere Seite der Marketstreet, die nicht den Anschein machte ein Touristenmagnet zu sein. Fürs Mittagessen war dann das erste mal Fastfood angesagt, d.h. Subway. Nichtsahnend bemerkte der Kassier (ehemals international reisender Ingenieur) beim bezahlen meine, wie mir später gesagt wurde, falschlicherweise um den Hals gehängte Nikon. Kurz danach teilte er uns mit dass er ebenfalls ambitionierter Photograf sei und fragte ob wir die Golden Gate Bridge schon gesehen haben. Worauf wir ihn fragten wie wir denn mit dem ÖV dorthin gelangen. Was diese Aussage auslöste: "Oh no, I feel so sorry you have no car." - was ziemlich alles über die USA sagt. Hilfsbereit wie er allerdings war fragte er die gerade zahlenden Kunden ob diese etwas über einen Bus zur Golden Gate Bridge wissen bis schliesslich ein Polizist eine Bus Linie lieferte. Da die beste Besuchszeit der Brücke allerdings schon vorbei war, abends kommt der Dunst und Wind in die Bay Area, beschlossen Markus und ich stattdessen die Aussicht vom Coit Tower zu geniessen.
